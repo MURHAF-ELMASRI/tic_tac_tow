@@ -6,6 +6,7 @@
 
 <br>
 <br>
+
 - One / Tow player
 - Easy / Hard level against computer
 - You can't defeat the bot in hard level 💪
